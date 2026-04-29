@@ -1,4 +1,4 @@
-## ToDos:
+## ToDos: Leander Terry Jara
 
 - test IMU Driver
 - think about moving pattern for test with robot ViOdFeatExt
